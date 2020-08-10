@@ -1,3 +1,6 @@
 这里报存着我的一些python代码
 
 SystemMonitor 是一个系统实时监控，采用的psutil模块实现
+
+UserYagmail 是一个邮件发送器，采用的yagmail模块实现
+
