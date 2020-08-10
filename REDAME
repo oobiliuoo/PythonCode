@@ -9,3 +9,5 @@ AboutInternet 文件包含UDP/TCP的相关操作和案例，主要学习socket�
 knowpython 文件包含初学python时的一些文件，主要是基础运用，
 其中ThePlaneWar是一个模拟飞机大战游戏，采用的pygame模块，现在是初代版本，还有许多要完善的地方
 
+WebGameServer 是一个模拟网游服务器，能选择发布游戏，客户端打开网页即可畅玩游戏
+
