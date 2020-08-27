@@ -12,3 +12,5 @@ knowpython 文件包含初学python时的一些文件，主要是基础运用，
 WebGameServer 是一个模拟网游服务器，能选择发布游戏，客户端打开网页即可畅玩游戏
 
 Multitask 是关于一些多任务的使用，包括多线程、多进程和协程，包含了Threading、multiprocessing、greenlet、os、gevent等模块的使用
+
+RegEx 是一些正则表达式的基本使用，主要使用了re模块，里面有爬虫案例
